@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>FONTS</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MarkaziText-Bold.ttf</string>
+		<string>MarkaziText-Medium.ttf</string>
+		<string>MarkaziText-Regular.ttf</string>
+		<string>MarkaziText-SemiBold.ttf</string>
+		<string>MarkaziText-VF.ttf</string>
+		<string>Karla-Italic-VariableFont_wght.ttf</string>
+		<string>Karla-VariableFont_wght.ttf</string>
+	</array>
+</dict>
+</plist>
